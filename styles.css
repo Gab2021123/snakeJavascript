@@ -6,6 +6,7 @@
   min-height: 5vh;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 .board {
   max-width: 750px;
